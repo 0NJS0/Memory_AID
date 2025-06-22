@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.memoryaid
 
 import org.junit.Test
 
